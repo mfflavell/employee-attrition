@@ -35,3 +35,8 @@ The findings of an employee attrition analysis will obviously be different for e
   *   Is there one or more departments where the attrition is higher?
   *   Does educational background have an impact, where some employees have greater professional opportunity than others?
   *   Does the average number of hours an employee work each day impact their desire to leave?
+  
+  Next steps: 
+*  Determine the cost to retain an employee versus the cost to replace an employee
+*  Determine the cost of employee performane improvement (turning a C or B player into an A player.
+*  Combine this attrition analysis with employee performance ratings (Top Grading) to determine if its worth keeping an employee or letting them leave.
